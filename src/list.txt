@@ -1,0 +1,10 @@
+app
+assets
+environments
+favicon.ico
+index.html
+list.txt
+main.ts
+polyfills.ts
+styles.scss
+test.ts
